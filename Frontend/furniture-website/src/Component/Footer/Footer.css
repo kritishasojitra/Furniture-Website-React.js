@@ -1,0 +1,32 @@
+.main-footer{
+    width: 100%;
+    height:360px;
+    /* border: 1px solid ; */
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+.footer1{
+    width:20%;
+    height:300px;
+    /* border: 1px solid ; */
+}
+.footer2{
+    width: 100%;
+    height:60px;
+    /* border: 1px solid ; */
+    display: flex;
+    justify-content: space-between;
+}
+.footer3{
+    width:30%;
+    height: 60px;
+    /* border: 1px solid ; */
+    display: flex;
+    align-items: center;
+    justify-content:center;
+}
+.footer3 i{
+    padding:20px;
+    font-size:20px;
+}
